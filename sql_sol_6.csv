@@ -1,0 +1,15 @@
+profile_id,rent, move_in_date, house_type,beds_vacant,description,city of tenants
+2,11000,6/5/2015,Apartment,1,"No.44,Ground floor,20th cross,Sector 2 HSR Layout,Bangalore.",bangalore
+3,12000,10/28/2015,Apartment,4,"No.44,First floor,20th cross,Sector 2 HSR Layout.",bangalore
+5,9000,5/15/2015,Independent,2,"#11,Annaiya Reddy Rd, Narayana Reddy Layout,Phase 2, Electronic City",bangalore
+6,10200,12/25/2015,Apartment,1,"# 595/1, 1st Floor,1st A main, Domlur Layout",bangalore
+8,7200,11/10/2015,Apartment,1,"Flat No-202, Apoorva Apartment No-296 Vyalikaval House Building Cooperative Society Ltd Nagavara",Delhi
+10,7500,6/20/2015,Independent,1,"302,#473 VAK Residency, B-Block, AECS Layout Kundalahalli,",Delhi
+18,8000,10/16/2015,Independent,1,"D1-1201, Uniworld Garden 2",Pune
+19,7500,9/26/2015,Independent,1,"49, House 1 lathangi 2nd main vinayaka housing layout, RMV 2nd stage bhoopasandra",Pune
+20,9500,9/30/2015,Independent,2,"Majeera Diamond Towers,malad-west",Pune
+,,,,,,
+"						",,,,,,
+"						",,,,,,
+"						",,,,,,
+"						",,,,,,

@@ -1,0 +1,9 @@
+profile id,full name,phone,email id,city,house id,move_in_date,move_out_date,rent,total number of referrals made,latest employer,occupational category
+2,Ashish Singh,9876890463,ashish.singh@gmail.com,Bangalore,2,6/5/2015,NULL,11000,1,hindustan unilever,Working
+3,Bhaskar maheshwari,9801834992,bhaskar.mah@gmail.com,Bangalore,4,10/28/2015,11/28/2016,12000,1,Technicolor,Working
+5,Tanvi mann,9178352769,tanvi.mann1907@gmail.com,Bangalore,3,5/15/2015,12/27/2015,9000,2,GE Healthcare,Working
+6,Harish sahai,9876548763,harish294all@gmail.com,Bangalore,8,12/25/2015,NULL,10200,0,Aditya birla,Working
+9,Shivshankar das,9801834992,sankar.shiva730@gmail.com,Pune,9,10/15/2015,NULL,7500,0,,Student
+10,Aditi jain,9873123456,aditi.jain@sproxil.com,Pune,10,6/20/2015,NULL,7500,1,[huawei Technologies],Working
+12,Umang parejiya,7896543674,uparejiya@gmail.com,Pune,15,2/24/2015,NULL,11000,1,Centurylink India,Working
+13,Mitali gupta,8796751238,mitali.gupta80@gmail.com,Pune,12,2/25/2015,NULL,12000,1,SAP Labs India,Working

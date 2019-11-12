@@ -1,0 +1,6 @@
+house_type,bhk_details,bed_count,furnishing_type,beds_vacant,house_id
+Apartment,3 BHK,5,unfurnished,2,1
+Apartment,3 BHK,3,semifurnished,0,7
+Apartment,2 BHK,4,fully-furnished,1,8
+Apartment,3 BHK,3,fully-furnished,0,14
+Apartment,3 BHK,3,fully-furnished,0,16
